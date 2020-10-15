@@ -7,7 +7,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 - Avoid making PR directly, first request for get assigned for the issue.
 -we will be taking python codes in starting so try to reach these in python only. start hacking :)
 
-**Before raising a pullrequest**
+**Before raising a pull request-**
 - To contribute an algorithm, please raise an issue for the problem using the following title
 - Problem No. | Problem name
 - Please don't raise the PR until the issue is assigned to you. PR's raised without assignment may lead to PR being marked invalid
