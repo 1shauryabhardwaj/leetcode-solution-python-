@@ -11,3 +11,4 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 - To contribute an algorithm, please raise an issue for the problem using the following title
 - Problem No. | Problem name
 - Please don't raise the PR until the issue is assigned to you. PR's raised without assignment may lead to PR being marked invalid
+- **Before raising a PR you should have to create an issue for this repo**(as it is highly concerned with open source agenda :) )
